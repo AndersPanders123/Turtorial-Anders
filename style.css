@@ -5,6 +5,12 @@
     background:#252835;
     color: white;
  }
+ header {
+   text-align: center;
+   font-size: 2rem;
+   background-color: blue;
+   border: 1rem solid cyan;
+ }
 
  .conteiner {
     text-align: center;
@@ -27,9 +33,9 @@
  }
 
  .pic {
-   
+   align-self: center;
  }
 
  h1 {
-   text-align: left;
+   text-align: center;
  }
