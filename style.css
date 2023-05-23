@@ -2,14 +2,6 @@
     @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');  
  *{
     font-family: 'Poppins', sans-serif;
-    background:#252835;
-    color: white;
- }
- header {
-   text-align: center;
-   font-size: 2rem;
-   background-color: blue;
-   border: 1rem solid cyan;
  }
 
  .conteiner {
@@ -30,12 +22,17 @@
     text-align: center;
     margin-inline: auto;
     color: cyan;
+    margin-top: 2rem;
  }
 
  .pic {
-   align-self: center;
+   margin: 0 calc(50% - 350px);
  }
 
  h1 {
+   
    text-align: center;
+   font-size: 2rem;
+   background-color: coral;
+   border: 1px solid black;
  }
