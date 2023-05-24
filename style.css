@@ -18,10 +18,10 @@
  }
 
  .number {
-    size: 150%;
+   font-size: 3rem;
     text-align: center;
     margin-inline: auto;
-    color: cyan;
+    color: black;
     margin-top: 2rem;
  }
 
