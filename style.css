@@ -19,10 +19,9 @@
 
  .number {
    font-size: 3rem;
-    text-align: center;
-    margin-inline: auto;
-    color: black;
-    margin-top: 2rem;
+   text-align: center;
+   color: black;
+   margin-top: 2rem;
  }
 
  .pic {
@@ -30,7 +29,6 @@
  }
 
  h1 {
-   
    text-align: center;
    font-size: 2rem;
    background-color: coral;
